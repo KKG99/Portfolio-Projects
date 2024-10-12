@@ -6,7 +6,7 @@ Welcome to my project portfolio! Here you'll find a curated collection of projec
 I am a Master's student at the University of Bremen specializing in Space Engineering, with a solid foundation in Mechanical Engineering. Through a variety of user-centric projects, I've honed my skills and continue to explore diverse areas within the engineering realm. I'm committed to continuous learning and staying abreast of the latest advancements in technology. 
 
 ## Table of Contents
-- [Project 1: Garage Door Controller Project](#project-1-project-title)
+- [Project 1: Garage Door Controller Model](#project-1-project-title)
 - [Project 2: Project Title](#project-2-project-title)
 - [Project 3: Project Title](#project-3-project-title)
 - [Project 4: Project Title](#project-4-project-title)
