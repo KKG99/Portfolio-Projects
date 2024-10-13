@@ -55,29 +55,6 @@ Requirements are traced to model elements to ensure fulfillment:
 - Structural requirements: Physical barrier around the motor.
 - Functional requirements: Handling of ButtonPressed, DoorDown, DoorUp, and BeamCrossed signals.
 
-### Usage
-To work with this model:
-#### Prerequisites:
-- Eclipse IDE: Download and install the Eclipse IDE.
-- SysMLv2 Plugin: Install the SysMLv2 plugin in Eclipse:
-  - Open Eclipse.
-  - Go to Help > Eclipse Marketplace.
-  - Search for SysMLv2 and install the plugin.
-
-#### Steps to Use the Model:
-1. Extract the Project Files:
-   - Unzip the project files and ensure the folder `GarageDoorController` is accessible.
-2. Open Eclipse:
-   - Start your Eclipse IDE.
-3. Import the Project:
-   - Navigate to File > Import > Existing Projects into Workspace.
-   - Select the `GarageDoorController` folder where the project is extracted.
-   - Ensure all files (e.g., `Parts.sysml`, `Requirements.sysml`) are visible in the Project Explorer.
-4. Open SysML Diagrams:
-   - Right-click on any `.sysml` file (e.g., `Parts.sysml`).
-   - Choose `Open with SysML Editor`.
-   - Start exploring the model elements such as parts, requirements, and satisfaction relations using the SysML diagram editor.
-
 ## SysMLv2: Structural Model for the Turn Indication Controller
 
 ### Overview
@@ -125,4 +102,25 @@ Model the perform action of the `CanController` to ensure that switching between
 ### Tracing Behavioural Requirements
 Extend the package `SatisfactionRelations` to trace the behavioral requirements on the `ControlLogic` behavior to the newly introduced behavioral model. Ensure behavioral requirements are linked to structural components performing the suitable behavior.
 
+## Usage of the models uploded
+To work with these models:
+#### Prerequisites:
+- Eclipse IDE: Download and install the Eclipse IDE.
+- SysMLv2 Plugin: Install the SysMLv2 plugin in Eclipse:
+  - Open Eclipse.
+  - Go to Help > Eclipse Marketplace.
+  - Search for SysMLv2 and install the plugin.
 
+#### Steps to Use the Model:
+1. Extract the Project Files:
+   - Unzip the project files and ensure the folders are accessible.
+2. Open Eclipse:
+   - Start your Eclipse IDE.
+3. Import the Project:
+   - Navigate to File > Import > Existing Projects into Workspace.
+   - Select the folder where the project is extracted.
+   - Ensure all files are visible in the Project Explorer.
+4. Open SysML Diagrams:
+   - Right-click on any `.sysml` file (e.g., `Parts.sysml`).
+   - Choose `Open with SysML Editor`.
+   - Start exploring the model elements using the SysML diagram editor.
