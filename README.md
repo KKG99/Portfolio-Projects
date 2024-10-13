@@ -1,6 +1,6 @@
 # Kiran Kumar's Skill Showcase
 
-Welcome to my portfolio! Here, you'll find a curated collection of works demonstrating my expertise and experience with various software tools.
+Welcome to my portfolio! Here, you'll find a curated collection of works demonstrating my expertise and experience with SysMLv2.
 
 ## About Me
 I am a Master's student at the University of Bremen specializing in Space Engineering, with a solid foundation in Mechanical Engineering. Through diverse, user-centric projects, I've honed my skills and continue to explore various areas within the engineering realm. I'm committed to continuous learning and staying abreast of the latest advancements in technology.
